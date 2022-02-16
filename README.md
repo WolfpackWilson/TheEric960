@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/john-p-wilson/" target="_blank">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIN-red?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
   </a>
-  <a href="mailto:jpwilso4@ncsu.edu" target="_blank"
-    ><img alt="Gmail" title="GMail" src="https://img.shields.io/badge/-Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" />
+  <a href="mailto:jpwilso4@ncsu.edu" target="_blank">
+    <img alt="Gmail" title="GMail" src="https://img.shields.io/badge/-Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <h3 align="center">📊 Research Interests</h3>
 <p align="center">
-  Automation | CAD | Education | Feedback | Machine Learning
+  Automation | CAD | Education | Feedback | Logistics | Machine Learning | Optimization
 </p>
 
 <h2 align="center">Programming Skills</h2>
@@ -47,6 +47,7 @@
   <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+<!-- TODO: Add VBA -->
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
