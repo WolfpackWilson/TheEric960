@@ -51,21 +51,21 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <a href="https://github.com/TheEric960/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheEric960&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <a href="https://github.com/wolfpackwilson/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfpackwilson&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/TheEric960/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheEric960&show_icons=true&count_private=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <a href="https://github.com/wolfpackwilson/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfpackwilson&show_icons=true&count_private=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
 </p>
 
 
 
 <!--
-**TheEric960/TheEric960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wolfpackwilson/wolfpackwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
